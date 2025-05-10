@@ -51,3 +51,21 @@
 #### My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firghiazhim&show_icons=true&theme=synthwave) -->
+
+<h1 align="left">Play games with me</h1>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/firghiazhim/count.svg?"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firghiazhim/firghiazhim/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firghiazhim/firghiazhim/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/firghiazhim/firghiazhim/output/pacman-contribution-graph.svg">
+</picture>
+
+###
