@@ -1,4 +1,4 @@
-## 💫 About Me:
+<!--## 💫 About Me:-->
 
 <!--![firghiazhim](/img/github-header-image.png)-->
 
