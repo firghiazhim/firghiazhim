@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-![firghiazhim](/img/github-header-image.png)
+<!--![firghiazhim](/img/github-header-image.png)-->
 
 ## Hello World! I'm Firghiazhim 👋
 
