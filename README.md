@@ -53,12 +53,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firghiazhim&show_icons=true&theme=synthwave) -->
 
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/firghiazhim/count.svg?"  />
-</div>
-
 ###
 
 <picture>
